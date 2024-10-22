@@ -35,7 +35,7 @@ O arquivo `salarios_profs.csv` contém as seguintes colunas:
 ```csv
 NOME;UNID_ORGAO;DEPTO_SETOR;JORNADA;CATEGORIA;CLASSE;REF_MS;FUNCAO;FUNCAO_ESTRUTURA;TEMPO_USP;PARCELAS_EVENTUAIS;SALARIO_MENSAL;SALARIO_MENSAL_LIQUIDO
 Abel Elias Rahal;PUSP-RP;Seção Técnica de Práticas Esportivas;30 Horas;Celetista;Superior 2;A;Educador Em Praticas Desportivas;;46;18432,97;12967,38;17584,07
-
+```
 
 ## Análise de Salários de Professores
 
@@ -53,8 +53,6 @@ O código no arquivo `.ipynb` inclui:
 
 ---
 
-## Como Executar o Projeto
-
 ### Pré-requisitos
 
 - Python 3.x
@@ -62,26 +60,13 @@ O código no arquivo `.ipynb` inclui:
     ```bash
     pip install numpy pandas scipy
     ```
-
-### Executando o Jupyter Notebook
-
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-2. Instale as bibliotecas necessárias:
-    ```bash
-    pip install numpy pandas scipy
-    ```
-3. Abra o Jupyter Notebook:
-    ```bash
-    jupyter notebook Hipoteses_221024.ipynb
-    ```
-4. Execute as células do notebook para reproduzir as análises.
-
 ---
 
 ## Contato
 
 Autor: Eduardo Ferreira  
 Email: eduds1010@gmail.com
+
+## Agradecimento
+
+Agradecimento ao professor Alcides Carlos de Araújo que auxilou as análises.
